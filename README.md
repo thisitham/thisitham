@@ -1,8 +1,6 @@
 # Hi I'm Thisitha 👋
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Alt Text](https://media4.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=ecf05e47p0ks296r29n7ft88eke58f553xhlo59ulqe6jytu&rid=giphy.gif&ct=g)
 
 
 ## 🌐 Socials:
@@ -28,3 +26,7 @@
 [![](https://visitcount.itsvg.in/api?id=thisitham&icon=5&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
