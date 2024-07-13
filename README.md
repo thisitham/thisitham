@@ -1,4 +1,4 @@
-# Hi I'm Thisitha 👋
+# Hi I'm Manaram 👋
 
 ![Alt Text](https://media4.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=ecf05e47p0ks296r29n7ft88eke58f553xhlo59ulqe6jytu&rid=giphy.gif&ct=g)
 
